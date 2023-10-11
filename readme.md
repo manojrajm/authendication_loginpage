@@ -10,12 +10,19 @@
   - Handlebars
   - MySql
   - Express
+  
+  ## Login Page:
 
 ![alt text]( https://github.com/manojrajm/authendication_loginpage/blob/main/views/images/loginn.png?raw=true)
 
+## Register Page
 ![alt text]( https://github.com/manojrajm/authendication_loginpage/blob/main/views/images/registerr.png?raw=true)
 
+## Console Output :
+
 ![alt text]( https://github.com/manojrajm/authendication_loginpage/blob/main/views/images/terminal.png?raw=true)
+
+## Data in MySql Database
 
 ![alt text]( https://github.com/manojrajm/authendication_loginpage/blob/main/views/images/sql.png?raw=true)
 
